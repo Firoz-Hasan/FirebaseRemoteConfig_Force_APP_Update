@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "44407982203",
+    "project_id": "fir-remoteconfig-79003",
+    "storage_bucket": "fir-remoteconfig-79003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:44407982203:android:419e554a4687af17c47ade",
+        "android_client_info": {
+          "package_name": "com.fhd.frconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "44407982203-bv68heeqo8r9coekd2057mpeh61tbbvs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaYGt61zzVQpKrhO8i3BJW8LKU-SYk1cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "44407982203-bv68heeqo8r9coekd2057mpeh61tbbvs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
